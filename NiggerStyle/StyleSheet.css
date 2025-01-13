@@ -10,10 +10,11 @@
     width: 1440px;
     background: #b6ff00;
 }
-.header 
-{
-    display:flex;
-    justify-content:space-between;
+.header {
+    display: flex;
+    justify-content: space-between;
+    background: #e59090;
+    padding-top: 35px;
 }
 .Menu 
 {
