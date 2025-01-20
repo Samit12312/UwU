@@ -9,6 +9,7 @@
     margin:auto;
     width: 1420px;
     background: #b6ff00;
+  
 }
 .header {
     display: flex;
@@ -30,22 +31,31 @@
 .main {
     background-image: url('../background.png');
     padding-top: 180px;
-    
-
+    padding-bottom:150px;
 }
 .MainTitle {
-    padding-left: 70px;
+    
     font-size: 124.63px;
     color: white;
-
+    margin-left:79px;
 }
 .Text {
-    padding-top: 68px;
-    padding-bottom:51px;
-    padding-left: 51px;
+    margin-top: 70px;
+    font-family: Tahoma;
+    margin-left: 55px;
+    font-size: 29.72px;
 }
 .OrderNow {
-    padding-left: 51px;
-    padding-bottom:155px;
+    margin-top: 50px;
     display: block;
+    width: 325px;
+    color: white;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    padding-left: 162.5px;
+    padding-right: 162.5px;
+    background-color: #6db3ab;
+    border-radius:25px;
+    margin-left:55px;
+    font-size:25px;
 }
