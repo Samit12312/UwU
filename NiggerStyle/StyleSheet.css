@@ -7,7 +7,7 @@
 .wraper
 {
     margin:auto;
-    width: 1440px;
+    width: 1420px;
     background: #b6ff00;
 }
 .header {
@@ -26,4 +26,26 @@
 .item
 {
     margin: 0 46px;
+}
+.main {
+    background-image: url('../background.png');
+    padding-top: 180px;
+    
+
+}
+.MainTitle {
+    padding-left: 70px;
+    font-size: 124.63px;
+    color: white;
+
+}
+.Text {
+    padding-top: 68px;
+    padding-bottom:51px;
+    padding-left: 51px;
+}
+.OrderNow {
+    padding-left: 51px;
+    padding-bottom:155px;
+    display: block;
 }
