@@ -1,0 +1,52 @@
+﻿* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body:not(.formRegistration) {
+    background-color:gray;
+}
+.fields {
+    list-style: none;
+}
+.field {
+    margin: 10px 0px;
+    position:relative;
+}
+.formRegistration {
+    width: 600px;
+    margin: 60px auto;
+    border: 5px solid #c1c1c1;
+    padding: 20px;
+    box-shadow: 10px 10px 5px #888888;
+    background-color: white;
+}
+input:not([type='checkbox'],[type='radio']), select, textarea {
+    width: 390px;
+    padding: 7px;
+}
+label {
+    border: 2px solid #c1c1c1;
+    display: inline-block;
+    width: 160px;
+}
+.ex{
+    position:relative;
+    bottom:13px;
+}
+.genderfield{
+    padding-left:10px;
+}
+button {
+    width: 240px;
+    padding: 10px;
+}
+.icon {
+    position: absolute;
+    width: 16px;
+    top: 5px;
+    right: 10px;
+}
+.icongender {
+    width: 16px;
+}
