@@ -1,0 +1,23 @@
+﻿*{
+    margin:auto;
+    padding:0;
+    box-sizing: border-box;
+}
+.matrixCell{
+    width: 60px;
+    padding:10px;
+    border:1px solid #b1b1b1;
+    text-align:center;
+    margin:10px;
+}
+.matrixCell:hover{
+    background-color: #f0f0f0;
+    cursor:pointer;
+}
+.matrixRow{
+    display:flex;
+}
+.matrix{
+    width:700px;
+    margin:auto;
+}
