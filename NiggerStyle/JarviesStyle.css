@@ -21,3 +21,34 @@
     width:700px;
     margin:auto;
 }
+.zogi{
+    background-color:blue;
+}
+.ezogi {
+    background-color: red;
+}
+.triangle {
+    width: 700px;
+    margin: auto;
+    background-color:red;
+}
+
+.traingleRowzogi {
+    color: blue;
+    text-align: left;
+}
+.traingleRowezogi {
+    color: red;
+    text-align: left;
+}
+.traingleRowzogi1 {
+    color: blue;
+    text-align: right;
+}
+
+.traingleRowezogi1 {
+    color: red;
+    text-align: right;
+}.kkk{
+     background-color:yellow;
+ }
