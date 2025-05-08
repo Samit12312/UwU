@@ -99,19 +99,17 @@ html += "</div>";
 document.getElementById("container").innerHTML = html;
 }
 let num = 10;
-let num1 = num;
 let html = "<div class=triangle>";
 for (i = 1; i <= num; i++) { // rows
     if (i % 2 == 0) {
-        html += "<div class=traingleRowzogi1>";
+        html += "<div class=traingleRowzogi2>";
     }
     else
-        html += "<div class=traingleRowezogi1>";
+        html += "<div class=traingleRowezogi2>";
 
-    for (j = 1; j <= num1; j++) { // cell
+    for (j = 1; j <= i; j++) { // cell
         html += "*";
     }
-    num1--;
     html += "</div>";
 }
 

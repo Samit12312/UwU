@@ -35,11 +35,11 @@
 
 .traingleRowzogi {
     color: blue;
-    text-align: left;
+    text-align: center;
 }
 .traingleRowezogi {
     color: red;
-    text-align: left;
+    text-align: center;
 }
 .traingleRowzogi1 {
     color: blue;
@@ -52,3 +52,11 @@
 }.kkk{
      background-color:yellow;
  }
+.traingleRowzogi1 {
+    color: blue;
+    text-align: left;
+}
+
+.traingleRowezogi1 {
+    color: red;
+    text-align: left;
